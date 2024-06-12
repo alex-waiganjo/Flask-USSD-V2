@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/69097988-d67f-417e-b987-3b42a9db2542/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/FLASK-ussd",
+    "appService.deploySubpath": "."
+}
